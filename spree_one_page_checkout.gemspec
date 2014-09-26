@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'spree_core', '~> 1.3.3'
-  s.add_dependency 'apotomo', '~> 1.2.3'
+  s.add_dependency 'apotomo', '~> 1.3.0'
   s.add_dependency 'formtastic', '~> 2.2.1'
   s.add_dependency 'reform', '~> 0.2.0'
 
